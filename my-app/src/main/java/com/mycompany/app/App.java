@@ -12,6 +12,7 @@ public class App
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
+        String build = "Jenkins";
         /**
          * Checker prevents this from compiling...
          */
